@@ -1,0 +1,15 @@
+.btnz{
+  font-family: "Roboto",sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  background: #00B6A8;
+  width: 80px;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: ;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
